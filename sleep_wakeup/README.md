@@ -1,1 +1,1 @@
-Construction d'un ordonnanceur dans l'espace utilisateur
+Implémentation et utilisation de primitive de synchronisation
